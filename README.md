@@ -2,7 +2,7 @@
 Proyecto Final | Programación III
 
 Integrantes: 
-Javier Carballo 
-Andrey Matarrita 
-Gabriel Najera 
-Tye Robinson
+*Javier Carballo 
+*Andrey Matarrita 
+*Gabriel Najera 
+*Tye Robinson
